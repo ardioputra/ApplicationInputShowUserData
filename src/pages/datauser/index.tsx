@@ -26,6 +26,7 @@ export default function DataUser() {
           </tbody>
         </table>
       </div>
+      <div></div>
     </>
   );
 }
